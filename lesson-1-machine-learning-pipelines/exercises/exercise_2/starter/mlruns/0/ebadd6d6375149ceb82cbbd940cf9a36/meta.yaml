@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27%40gmail.com/My%20Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/ebadd6d6375149ceb82cbbd940cf9a36/artifacts
+end_time: 1680631439313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebadd6d6375149ceb82cbbd940cf9a36
+run_name: whimsical-bird-209
+run_uuid: ebadd6d6375149ceb82cbbd940cf9a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680631281374
+status: 3
+tags: []
+user_id: samarth

@@ -1,0 +1,20 @@
+name: download_data
+conda_env: conda.yml
+
+entry_points:
+  main:
+    parameters:
+      file_url: 
+        type: uri
+        default: "https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv"
+      artifact_name: 
+        type: str
+        default: "iris_dataset"
+      artifact_type: 
+        type: str
+        default: "raw_data"
+      artifact_description: 
+        type: str
+        default: "Iris dataset"
+    command: >-
+      python3.8 download_data.py --file_url={file_url} --artifact_name={artifact_name} --artifact_type={artifact_type} --artifact_description={artifact_description}

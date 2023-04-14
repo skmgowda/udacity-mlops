@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27%40gmail.com/My%20Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/848e0e350e6f49ffa8ec693f8068215d/artifacts
+end_time: 1680631109897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 848e0e350e6f49ffa8ec693f8068215d
+run_name: casual-wasp-677
+run_uuid: 848e0e350e6f49ffa8ec693f8068215d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680631101238
+status: 4
+tags: []
+user_id: samarth

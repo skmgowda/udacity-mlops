@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27%40gmail.com/My%20Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/c4713fce356546168853c89af61f7b8d/artifacts
+end_time: 1680630660154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4713fce356546168853c89af61f7b8d
+run_name: rumbling-squid-951
+run_uuid: c4713fce356546168853c89af61f7b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680630650422
+status: 4
+tags: []
+user_id: samarth

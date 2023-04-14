@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-04-04T18:03:52.811767",
+    "startedAt": "2023-04-04T18:03:51.432612",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv",
+        "--artifact_name",
+        "iris",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "This data sets consists of 3 different types of irises\u2019 (Setosa, Versicolour, and Virginica) petal and sepal length"
+    ],
+    "state": "running",
+    "program": "download_data.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_2/solution/download_data.py",
+    "git": {
+        "remote": "https://github.com/skmgowda/udacity-mlops.git",
+        "commit": "dd3fc95e0217b4d624f8ee38675617e90db7d95d"
+    },
+    "email": "samarth.mothakapally@machinify.com",
+    "root": "/Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27@gmail.com/My Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops",
+    "host": "samarths-MacBook-Pro.local",
+    "username": "samarth",
+    "executable": "/Users/samarth/opt/anaconda3/envs/mlflow-dcab57294d4c8d8af89cb670ca7f21a98adaaf45/bin/python3"
+}

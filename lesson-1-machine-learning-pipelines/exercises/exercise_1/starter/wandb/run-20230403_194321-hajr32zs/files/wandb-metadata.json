@@ -1,0 +1,43 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-04-04T02:43:22.103034",
+    "startedAt": "2023-04-04T02:43:21.555295",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_file",
+        "zen.txt",
+        "--artifact_name",
+        "zen_of_python",
+        "--artifact_type",
+        "text_file",
+        "--artifact_description",
+        "20 aphorisms about writing good python code"
+    ],
+    "state": "running",
+    "program": "upload_artifact.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py",
+    "git": {
+        "remote": "https://github.com/skmgowda/udacity-mlops.git",
+        "commit": "dd3fc95e0217b4d624f8ee38675617e90db7d95d"
+    },
+    "email": "samarth.mothakapally@machinify.com",
+    "root": "/Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27@gmail.com/My Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops",
+    "host": "samarths-MacBook-Pro.local",
+    "username": "samarth",
+    "executable": "/Users/samarth/opt/anaconda3/envs/udacity/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 247.0473747253418
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

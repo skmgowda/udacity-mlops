@@ -1,0 +1,43 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-04-04T16:51:34.318005",
+    "startedAt": "2023-04-04T16:51:33.395089",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv",
+        "--artifact_name",
+        "iris",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "The sklearn IRIS dataset"
+    ],
+    "state": "running",
+    "program": "download_data.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/download_data.py",
+    "git": {
+        "remote": "https://github.com/skmgowda/udacity-mlops.git",
+        "commit": "dd3fc95e0217b4d624f8ee38675617e90db7d95d"
+    },
+    "email": "samarth.mothakapally@machinify.com",
+    "root": "/Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27@gmail.com/My Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops",
+    "host": "samarths-MacBook-Pro.local",
+    "username": "samarth",
+    "executable": "/Users/samarth/opt/anaconda3/envs/udacity/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 247.7506217956543
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

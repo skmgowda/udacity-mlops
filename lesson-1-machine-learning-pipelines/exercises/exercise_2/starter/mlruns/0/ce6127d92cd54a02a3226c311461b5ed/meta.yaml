@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27%40gmail.com/My%20Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/ce6127d92cd54a02a3226c311461b5ed/artifacts
+end_time: 1680630914848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce6127d92cd54a02a3226c311461b5ed
+run_name: amusing-pig-178
+run_uuid: ce6127d92cd54a02a3226c311461b5ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680630751787
+status: 4
+tags: []
+user_id: samarth
