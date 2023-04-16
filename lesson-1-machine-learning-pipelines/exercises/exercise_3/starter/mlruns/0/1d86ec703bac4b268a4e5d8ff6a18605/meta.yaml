@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27%40gmail.com/My%20Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/1d86ec703bac4b268a4e5d8ff6a18605/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d86ec703bac4b268a4e5d8ff6a18605
+run_name: chill-panda-968
+run_uuid: 1d86ec703bac4b268a4e5d8ff6a18605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681676047996
+status: 1
+tags: []
+user_id: samarth

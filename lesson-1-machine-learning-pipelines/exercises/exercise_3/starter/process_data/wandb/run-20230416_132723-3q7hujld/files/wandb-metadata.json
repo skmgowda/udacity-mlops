@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-04-16T20:27:24.886446",
+    "startedAt": "2023-04-16T20:27:23.526077",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "iris.csv:latest",
+        "--artifact_name",
+        "clean_data.csv",
+        "--artifact_type",
+        "processed_data",
+        "--artifact_description",
+        "Cleaned data"
+    ],
+    "state": "running",
+    "program": "/Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27@gmail.com/My Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/process_data/run.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/process_data/run.py",
+    "git": {
+        "remote": "https://github.com/skmgowda/udacity-mlops.git",
+        "commit": "ba476d9bdf9303f507275106cd3b46e0368fe650"
+    },
+    "email": "samarth.mothakapally@machinify.com",
+    "root": "/Users/samarth/Library/CloudStorage/GoogleDrive-skmgowda27@gmail.com/My Drive/Blackline_Backup/Courses/Udacity/MLOps/udacity-mlops",
+    "host": "samarths-MacBook-Pro.local",
+    "username": "samarth",
+    "executable": "/Users/samarth/opt/anaconda3/envs/mlflow-fa73361c5ab747a7f495e207ffb9a4e590a92ad8/bin/python"
+}
